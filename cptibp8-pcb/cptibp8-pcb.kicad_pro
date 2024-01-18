@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 2.5,
-          "width": 4.4
+          "drill": 0.5,
+          "height": 1.8,
+          "width": 1.1
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -175,6 +175,7 @@
         0.0,
         0.25,
         0.4,
+        0.6,
         0.8
       ],
       "via_dimensions": [
@@ -408,7 +409,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "cptipb8-pcb.kicad_pro",
+    "filename": "cptibp8-pcb.kicad_pro",
     "version": 1
   },
   "net_settings": {
