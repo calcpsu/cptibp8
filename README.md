@@ -6,7 +6,7 @@ Li-Po has the advantage of far reduced self-discharge in comparison to Ni-Cd, wh
 
 Ni-CD batteries are notorious for leaking. While Lithium Ion batteries are notorious for self-immolation, a well protected Li-Po battery (particularly in a low current application like this) should be able to be made very safe.
 
-![Render of calcpack PCB](https://github.com/calcpsu/cptipb8/blob/main/render.png?raw=true)
+![Render of calcpack PCB](https://github.com/calcpsu/cptibp8/blob/master/render.png?raw=true)
 
 ## Features / design goals:
 - Direct replacement for a BP8 battery pack
