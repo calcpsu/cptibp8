@@ -30,3 +30,6 @@ fp-info-cache
 
 # excel
 ~*
+
+#3dp output
+*.pwmx
