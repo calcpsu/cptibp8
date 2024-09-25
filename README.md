@@ -28,10 +28,12 @@ Ni-CD batteries are notorious for leaking. While Lithium Ion batteries are notor
 
 ![Photo of calcpack in original case](images/originalcase.jpg)
 
-The board is designed to fit into the original TI case bottom part. Due to ridges for the cylindrical NiCd cells, the top part will not fit.
+The board is designed to fit into the original TI case bottom part, to preserve an original look!
 
-1. The simplest installation is to place the board and 3D printed standoff into the original case bottom, with a dab of hot glue to hold it in place. The back can be left off.
-2. If you don't have an original case, a case designed specifically for 3D printing is available (image below).
+1. The simplest installation is to place the board and 3D printed standoff into the original case bottom, with a dab of hot glue to hold it in place.
+    * The original back cover will not fit, due to ridges for cylindrical cells - you can leave it off.
+    * If you prefer, a 3d-printed replacement top cover is provided compatible with the original bottom part. Due to tolerances and thin snaps, SLA 3D printing is recommended (and use a semi-flexible material, such as ABS-like resin).
+3. If you don't have an original case, a case designed specifically for 3D printing is available (image below).
     * Files with and without support (intended for SLA printing) are provided.
     * The top part is not required. It is designed to be attached with a couple of dots of superglue.
 
