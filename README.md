@@ -6,7 +6,7 @@ Li-Po has the advantage of far reduced self-discharge in comparison to Ni-Cd, wh
 
 Ni-CD batteries are notorious for leaking. While Lithium Ion batteries are notorious for self-immolation, a well protected Li-Po battery (particularly in a low current application like this) should be able to be made very safe.
 
-![Render of calcpack PCB](https://github.com/calcpsu/cptibp8/blob/master/render.png?raw=true)
+![Render of calcpack PCB](images/render.png)
 
 ## Features / design goals:
 - Direct replacement for a BP8 battery pack
@@ -22,6 +22,17 @@ Ni-CD batteries are notorious for leaking. While Lithium Ion batteries are notor
     - Short circuit and overcurrent (again for IATA requirement)
 - Minimum idle/quiescent current to maximise charge time
 - Similar or higher capacity than typical Ni-MH altenative (1500mAh @ 2.4V: 3.6Wh)
+
+## Case ##
+
+![Photo of calcpack in original case](images/originalcase.jpg)
+
+The board is designed to fit into the original TI case bottom part. Due to ridges for the cylindrical NiCd cells, the top part will not fit.
+
+1. The simplest installation is to place the board and 3D printed standoff into the original case bottom, with a dab of hot glue to hold it in place. The back can be left off.
+2. If you don't have an original case, a case designed specifically for 3D printing is available (image below). Files with and without support (intended for SLA printing) are provided.
+
+![Render of 3d printable calcpack case](images/case.png)
   
 ## License
 
