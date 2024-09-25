@@ -36,6 +36,10 @@ The board is designed to fit into the original TI case bottom part. Due to ridge
     * The top part is not required. It is designed to be attached with a couple of dots of superglue.
 
 ![Render of 3d printable calcpack case](images/case.png)
+
+## Availability ##
+
+If you'd like one of these, I may be able to help! Please contact me at info@calcpsu.com.au.
   
 ## License
 
